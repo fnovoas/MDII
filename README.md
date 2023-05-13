@@ -16,3 +16,5 @@ Tarea 5 (2 mar): lo de Autobahn.
 Tarea 6 (13 mar): Jupyter 2: comprobar el tiempo por el método tradicional de comprobar 1 a 1, vs. Totient de Euler.
 
 Tarea 7 (13 mar): Jupyter 3: expresar un número como una suma de cuadrados (pero con la menor cantidad de cuadrados).
+
+Tarea 8 (12 may): taller teoría de números.
