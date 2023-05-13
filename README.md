@@ -1,6 +1,6 @@
 # MDII
 Matemáticas Discretas II 2023-1
-Siete entregas, cada una en su carpeta.
+Entregas, cada una en su carpeta.
 Contenido:
 
 Tarea 1 (14 feb): primera tarea (latex, tres puntos).
